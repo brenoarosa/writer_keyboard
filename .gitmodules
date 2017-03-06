@@ -1,0 +1,6 @@
+[submodule "tmkbuilder"]
+	path = tmkbuilder
+	url = https://github.com/ruiqimao/tmkbuilder
+[submodule "tmk_keyboard"]
+	path = tmk_keyboard
+	url = https://github.com/tmk/tmk_keyboard
